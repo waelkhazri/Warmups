@@ -3,8 +3,9 @@
 
 // function declaration
 function MyPartnerName(firstname, lastname) {
-	// return firstname+" "+lastname  
+return (firstname+lastname)
 }
+
 
 
 function MultipleOf13orNot() {
